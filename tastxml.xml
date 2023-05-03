@@ -1,0 +1,21 @@
+<CarSale>
+
+    <car type='sedan'>
+
+        <make>nissan</make>
+
+        <state>used</state>
+
+        <price>50000</price>
+
+    </car>
+
+  <car type='Truck'>
+
+        <make>Toyota</make>
+
+        <state>used</state>
+
+        <price>75000</price>
+
+</CarSale
